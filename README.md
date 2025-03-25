@@ -1,5 +1,5 @@
 # Robot ISP (Reconstructed) for Mega Speed Net
-Android surveillance system with NodeMCU and PIR compatibility
+
 
 # Description
 Robot ISP is an advanced automation system designed for Internet Service Providers. It serves as a valuable tool for 
